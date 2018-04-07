@@ -1,0 +1,28 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {
+            "context": "td"
+        },
+        "th:if": {
+            "context": "td"
+        },
+        "th:src": {
+            "context": "img"
+        },
+        "th:action": {
+            "context": "form"
+        },
+        "th:each": {
+            "context": "tr"
+        },
+        "th:field": {
+            "context": "input"
+        },
+        "th:href": {},
+        "th:utext": {},
+        "th:value": {
+            "context": "input"
+        }
+    }
+}
